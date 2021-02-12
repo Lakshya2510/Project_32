@@ -159,9 +159,9 @@ async function getBackground() {
 
     if(hour<18 && hour>6){
 
-       backgroundColor = 38
+       backgroundColor = 230
     }
     else{
-        backgroundColor = 230
+        backgroundColor = 38
     }
 }
